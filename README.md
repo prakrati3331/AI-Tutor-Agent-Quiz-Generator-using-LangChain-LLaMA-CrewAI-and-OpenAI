@@ -1,15 +1,27 @@
+# Topics Covered:
+
+Select topics using Streamlit and analyze with LLaMA or OpenAI.
+
+Generate quizzes using CrewAI with adaptive difficulty.
+
+Provide AI tutor support via GPT for explanations and summaries.
+
+Create study plans with LangChain and recommend resources.
+
+Manage backend using FastAPI and store data with Pinecone.
+
+
 openai
 langchain
 streamlit
 
-
-# langchain==0.3.13
-# langchain-core==0.3.28
-# langchain-community==0.3.13
-# langchain-openai==0.2.14
+ langchain==0.3.13
+ langchain-core==0.3.28
+ langchain-community==0.3.13
+ langchain-openai==0.2.14
 
  
-# use this version for langchain and langchain-community
+ use this version for langchain and langchain-community
 
 
 # How to run this app:
@@ -24,8 +36,8 @@ check :current directory is : cd
 # steps 
 # for creating environment
 
-conda create -n lang6 python=3.11 -y
+1. conda create -n lang6 python=3.11 -y   ,  conda activate lang6  or
 
-conda activate lang6
+2. python -m venv venv   ,  .\venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
