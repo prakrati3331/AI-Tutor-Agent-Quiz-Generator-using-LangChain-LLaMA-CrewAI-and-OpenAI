@@ -12,11 +12,7 @@ Manage backend using FastAPI and store data with Pinecone.
 
 
 
-
-
-openai
-langchain
-streamlit
+# use this version for langchain and langchain-community
 
  langchain==0.3.13
  langchain-core==0.3.28
@@ -24,8 +20,7 @@ streamlit
  langchain-openai==0.2.14
 
  
- use this version for langchain and langchain-community
-
+ 
 
 # How to run this app:
 
