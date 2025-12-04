@@ -25,7 +25,6 @@ Manage backend using FastAPI and store data with Pinecone.
  langchain-openai==0.2.14
 
  
- 
 
 # How to run this app:
 
@@ -36,8 +35,7 @@ Manage backend using FastAPI and store data with Pinecone.
 check :current directory is : cd
 
 
-# steps 
-# for creating environment
+# steps for creating environment:
 
 1. conda create -n lang6 python=3.11 -y   ,  conda activate lang6  or
 
