@@ -11,6 +11,9 @@ Create study plans with LangChain and recommend resources.
 Manage backend using FastAPI and store data with Pinecone.
 
 
+
+
+
 openai
 langchain
 streamlit
