@@ -1,3 +1,8 @@
+# AI Tutor Agent & Quiz Generator
+
+Develop an AI-powered tutor Agent and quiz generator using LangChain, LLaMA, CrewAI, and OpenAI. The system will generate quizzes based on a selected topic, provide detailed topic plans, and offer personalized tutoring using AI models. A user-friendly interface using Streamlit and a backend powered by FastAPI will ensure seamless interaction.
+
+
 # Topics Covered:
 
 Select topics using Streamlit and analyze with LLaMA or OpenAI.
